@@ -142,6 +142,17 @@ nav .right a span {
     font-size: 35px;
 }
 
+.Projects-section .insideshot {
+flex: 2;
+display: flex;
+justify-content: center;
+gap: 90px;
+}
+
+.Projects-section .insideshot img{
+    width: 375px;
+}
+
 /* SECTION 4: Contact */
 .contact-section {
     padding: 0 50px;
