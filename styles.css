@@ -146,11 +146,13 @@ nav .right a span {
 flex: 2;
 display: flex;
 justify-content: center;
-gap: 90px;
+gap: 50px;
+padding: 0 50px;
 }
 
 .Projects-section .insideshot img{
     width: 375px;
+    padding: 0 50px;
 }
 
 /* SECTION 4: Contact */
